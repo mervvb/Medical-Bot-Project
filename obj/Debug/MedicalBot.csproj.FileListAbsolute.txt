@@ -1,0 +1,8 @@
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\bin\Debug\MedicalBot.exe.config
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\bin\Debug\MedicalBot.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\bin\Debug\MedicalBot.pdb
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\obj\Debug\MedicalBot.csproj.AssemblyReference.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\obj\Debug\MedicalBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\obj\Debug\MedicalBot.csproj.CoreCompileInputs.cache
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\obj\Debug\MedicalBot.exe
+C:\Users\borlu\Desktop\C#\SolutionCSharp\MedicalBot\obj\Debug\MedicalBot.pdb
